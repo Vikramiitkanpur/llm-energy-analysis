@@ -1,10 +1,10 @@
 # LLM-Based Energy Data Analysis
 
-Name: Vikram Kumar
+## Name: Vikram Kumar
 
-LLM Used: mistral-saba-24b via Groq 
+## LLM Used: mistral-saba-24b via Groq 
 
-Dataset:
+## Dataset:
 UCI Household Power Consumption Dataset
 Link: https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+consumption
 
@@ -30,4 +30,4 @@ https://archive.ics.uci.edu/ml/datasets/individual+household+electric+power+cons
 ## Requirements:
 - pandas
 - matplotlib
-- seaborn
+
